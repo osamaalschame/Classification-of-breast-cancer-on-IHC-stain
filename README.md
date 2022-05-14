@@ -7,3 +7,4 @@ The calssification is depend on desnet for three classes :
 3. Strong 
 4. Weak
 
+![](testing_losses.png)
