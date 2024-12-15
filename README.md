@@ -37,7 +37,7 @@ python train.py --data_dir /path/to/dataset
 
 3. Make predictions:
 ```bash
-python predict.py --image_path /path/to/image
+python classify.py --image_path /path/to/image
 ```
 
 ## Dataset Structure
@@ -66,8 +66,7 @@ data/
 ## Performance
 
 - Training losses: ![](testing_losses.png)
-- confusion matrix: 
-- Test Accuracy: [Add your metrics]
+- confusion matrix: ![](confusion_matrix.png)
 
 ## Contact
 
